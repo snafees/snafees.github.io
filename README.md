@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello! 
 
-You can use the [editor on GitHub](https://github.com/snafees/snafees.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong learner.  
+- I'm passionate about bridging the gap between mathematics and biology.
+- I'm currently finishing my Phd in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX
+- Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
+    
+![At the interface of mathematics, biology and beauty!](https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/81324563_1400317103463716_5255701250472673280_o.jpg?_nc_cat=103&_nc_sid=2d5d41&_nc_ohc=XUzSNx9LDDAAX9ags9M&_nc_ht=scontent-dfw5-1.xx&oh=b644d99c210a3b77029c523b6fbaf3ef&oe=5E96DD17)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snafees/snafees.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to reach out to me at saba.nafees314@gmail.com
