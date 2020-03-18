@@ -11,4 +11,4 @@ My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong lea
 
 ### Contact
 
-Feel free to reach out to me at saba.nafees314@gmail.com
+Feel free to reach out to me at <saba.nafees314@gmail.com>
