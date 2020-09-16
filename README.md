@@ -5,7 +5,7 @@ My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong lea
 - I recently finished my PhD in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
     
-![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/headshot-byDaniel.jpg?raw=true)
+![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/headshot-byDaniel.jpg?raw=true | width=48)
 
 ### Research
 For my Ph.D. work, I worked on implementing a mathematical tool derived by my advisor, Dr. Sean Rice, that aims to map phenotypes onto underlying sequence space using tensor-based multivariate orthogonal polynomials. I am currently applying this method to other applications in molecular biology but one example that shows this implementation is given in this [paper](https://www.biorxiv.org/content/10.1101/2020.04.24.059279v3) which is currently in review. 
