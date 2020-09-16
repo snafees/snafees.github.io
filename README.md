@@ -44,6 +44,9 @@ Documentary - You can find out more about my family's immigration story in this 
 
 [Deutche Welle](https://www.dw.com/en/saba-nafees-us-immigration-system-is-broken/a-19355971)
 
+### CV
+[Link](https://drive.google.com/file/d/1UdMY8Hsb_dY4GAKUfcU9mxEYqhp9h2dQ/view?usp=sharing)
+
 ### Contact
 
 Feel free to reach out to me at <saba.nafees314@gmail.com>
