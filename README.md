@@ -51,5 +51,7 @@ Documentary - You can find out more about my family's immigration story in this 
 
 Feel free to reach out to me at <saba.nafees314@gmail.com>
 
+![During a medical mission in Guatemala with HELPS International](https://github.com/snafees/snafees.github.io/blob/master/Guate.JPG?raw=true)
+
 
 
