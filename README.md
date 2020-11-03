@@ -13,7 +13,7 @@ For my Ph.D. work, I worked on implementing a mathematical tool derived by my ad
 
 I'm also currently developing a command line tool written in Python that can make it easier for researchers to utilize this approach in their own work. The github repo to install the very initial version of this CLI is [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know! 
 
-### Relevant Press Related to Advocacy & Other Things!
+#### Relevant Press Related to Advocacy & Other Things!
 
 Recent [interview with STEMcx](https://youtu.be/RLld5wJzKEE) from Baltimore, MD. [STEMcx](https://stemcx.wixsite.com/kids) is a wonderful nonprofit organization that promotes STEM education and resources for students from underrepresented communities. I had a great time being interviewed by Anaiah, a wonderful young lady who's in the 8th grade and has exciting plans for her career. 
 
