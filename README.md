@@ -13,7 +13,10 @@ My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong lea
 
 For my Ph.D. work, I worked on implementing a novel mathematical tool derived by my advisor, Dr. Sean Rice, that aims to map phenotypes onto underlying sequence space using tensor-based multivariate orthogonal polynomials. I am currently applying this method to other applications in molecular biology but one example that shows this implementation as applied to RNA is given in the paper linked above.
 
-I'm also currently developing a command line tool written in Python that can make it easier for researchers to utilize this approach in their own work. The github repo to install the very initial version of this CLI is [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know! 
+### Software
+
+I'm also currently developing a command line tool written in Python that makes it easier for researchers to utilize the aforementioned approach in their own work. Link to the PyPI package is [here](https://pypi.org/project/ortho-seq-code/).
+The github repo can be found [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know! 
 
 ### Relevant Press Related to Advocacy & Other Things!
 
