@@ -6,7 +6,7 @@ My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong lea
 - I recently finished my PhD in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
     
-![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/headshot-byDaniel_3.png?raw=true){:height="400px" width="300px"}
+![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/headshot-byDaniel_3.png?raw=true)
 
 ### Research
 [Recent paper in NAR Genomics & Bioinformatics](https://academic.oup.com/nargab/article/2/4/lqaa101/6030984)
