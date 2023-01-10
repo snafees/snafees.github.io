@@ -65,12 +65,13 @@ You can find out more about my family's immigration story in this award-winning 
 [Deutche Welle](https://www.dw.com/en/saba-nafees-us-immigration-system-is-broken/a-19355971)
 
 ### CV
-[Link](https://drive.google.com/file/d/1UdMY8Hsb_dY4GAKUfcU9mxEYqhp9h2dQ/view?usp=sharing)
+Please email me to request a copy.
+<!-- [Link](https://drive.google.com/file/d/1UdMY8Hsb_dY4GAKUfcU9mxEYqhp9h2dQ/view?usp=sharing) -->
 
 ### Contact
 
 Feel free to reach out to me at <saba.nafees314@gmail.com>
 
-![During a medical mission in Guatemala with HELPS International](https://github.com/snafees/snafees.github.io/blob/master/Guate.JPG?raw=true)
+![During a medical mission in Guatemala with HELPS International](https://github.com/snafees/snafees.github.io/blob/master/images/Guate.JPG?raw=true)
 
 During a medical mission in Guatemala with HELPS International.
