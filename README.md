@@ -1,12 +1,21 @@
-## Hello! 
+## Hello!
 
 My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong learner.  
-- I'm a bioinformatics scientist at [Chan Zuckerberg Biohub](https://www.czbiohub.org/) working at the interface of mathematics and biology (currently working on antibody sequence analysis using the novel mathematical method that my advisor and I developed during my Ph.D.). 
+- I'm a bioinformatics scientist at [Chan Zuckerberg Biohub](https://www.czbiohub.org/) working at the interface of mathematics and biology.
+
+My current projects center around infectious disease initiatives such as the following:
+
+- analyzing patient samples from a hospital setting for viral or bacterial outbreaks
+- analyzing immune repertoires and working with the protein sciences team to model antibodies
+- developing and conducting bioinformatics & metagenomics training for scientists from around the world with the Biohub’s Rapid Response team which works to train the Gates Foundation’s Grand Challenges [grantees](https://gcgh.grandchallenges.org/challenge/metagenomic-next-generation-sequencing-detect-identify-and-characterize-pathogens).
+- methods development work which focuses on quantifying sequence-phenotype relationships by developing a mathematical method and software tool to analyze DNA, RNA, and protein sequences and mapping phenotype information onto sequence space (ortho_seqs).
+
+ (currently working on antibody sequence analysis using the novel mathematical method that my advisor and I developed during my Ph.D.).
 - I'm passionate about bridging the gap between mathematics and biology.
 - I recently finished my PhD in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
-    
-![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/headshot-byDaniel_3.png?raw=true)
+
+![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/images/headshot_filmphoto_cropped.png?raw=true)
 
 ### Research
 [Recent paper in NAR Genomics & Bioinformatics](https://academic.oup.com/nargab/article/2/4/lqaa101/6030984)
@@ -16,19 +25,19 @@ For my Ph.D. work, I worked on implementing a novel mathematical tool derived by
 ### Software
 
 I'm also currently developing a command line tool written in Python that makes it easier for researchers to utilize the aforementioned approach in their own work. Link to the PyPI package is [here](https://pypi.org/project/ortho-seq-code/).
-The github repo can be found [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know! 
+The github repo can be found [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know!
 
 ### Relevant Press Related to Advocacy & Other Things!
 
-Recent [interview with STEMcx](https://youtu.be/RLld5wJzKEE) from Baltimore, MD. [STEMcx](https://stemcx.wixsite.com/kids) is a wonderful nonprofit organization that promotes STEM education and resources for students from underrepresented communities. I had a great time being interviewed by Anaiah, a wonderful young lady who's in the 8th grade and has exciting plans for her career. 
+Recent [interview with STEMcx](https://youtu.be/RLld5wJzKEE) from Baltimore, MD. [STEMcx](https://stemcx.wixsite.com/kids) is a wonderful nonprofit organization that promotes STEM education and resources for students from underrepresented communities. I had a great time being interviewed by Anaiah, a wonderful young lady who's in the 8th grade and has exciting plans for her career.
 
-#### Documentary 
+#### Documentary
 You can find out more about my family's immigration story in this award-winning documentary produced by PBS, [Dream With Me](http://dreamwithmemovie.com/) Remember, this is just one of millions of American stories that showcase the undocumented American's struggle. Feel free to reach out if you have questions or would like to screen it at your organization!
 
 #### Press
 [Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2017/09/06/im-a-dreamer-i-hope-one-day-my-country-will-call-me-an-american-too/) - This article talks a bit about my story and urges our country to take action regarding immigration reform.
 
-[Washing Post Podcast](https://www.washingtonpost.com/news/post-politics/wp/2017/09/08/what-does-trump-really-want-for-the-dreamers/) 
+[Washing Post Podcast](https://www.washingtonpost.com/news/post-politics/wp/2017/09/08/what-does-trump-really-want-for-the-dreamers/)
 
 [MSNBC](http://www.msnbc.com/jose-diaz-balart/watch/daca-numbers-low-for-asian-american-students-443893315598)
 
@@ -40,17 +49,17 @@ You can find out more about my family's immigration story in this award-winning 
 
 [Mashable](https://mashable.com/2015/10/15/define-american-college-chapters/#ZJAoAXCtlEq7) - Talking about the Define American Chapters program. I'm humbled to have started the first chapter at Texas Tech after being inspired by my mentor, Jose Antonio Vargas, and now there are over 70 chapters across the country. Learn how to start your own chapter on your campus [here](https://www.defineamerican.com/chapters)!
 
-[The Scientist](https://www.the-scientist.com/daily-news/scientists-fear-daca-cancellation-30973) 
+[The Scientist](https://www.the-scientist.com/daily-news/scientists-fear-daca-cancellation-30973)
 
 [Fast Company](https://www.fastcompany.com/40461832/whatever-trump-decides-on-daca-these-immigrant-innovators-will-find-a-way-to-keep-working)
 
 [Huffpost](https://www.huffpost.com/entry/asian-american-black-activists-rally-immigration_n_5a26de2ee4b069df71fa2790) - Advocating on the Hill for clean Dream Act alongside my friends in the UndocuBlack community.
 
-[SXSW Panel](https://schedule.sxsw.com/2017/events/PP62607) 
+[SXSW Panel](https://schedule.sxsw.com/2017/events/PP62607)
 
 [Associated Press](https://www.bostonglobe.com/news/nation/2017/04/21/young-immigrant-dreamers-can-rest-easy-trump-says/lcxN9jJqY2P9kUuOJyuW8H/story.html)
 
-[One Young World](https://www.oneyoungworld.com/news-item/meet-ambassador-who-helping-tibetan-people-settlements-india-and-nepal) and entrepreneurship! 
+[One Young World](https://www.oneyoungworld.com/news-item/meet-ambassador-who-helping-tibetan-people-settlements-india-and-nepal) and entrepreneurship!
 
 [Deutche Welle](https://www.dw.com/en/saba-nafees-us-immigration-system-is-broken/a-19355971)
 
@@ -64,6 +73,3 @@ Feel free to reach out to me at <saba.nafees314@gmail.com>
 ![During a medical mission in Guatemala with HELPS International](https://github.com/snafees/snafees.github.io/blob/master/Guate.JPG?raw=true)
 
 During a medical mission in Guatemala with HELPS International.
-
-
-
