@@ -10,21 +10,22 @@ My current projects center around infectious disease initiatives such as the fol
 - developing and conducting bioinformatics & metagenomics training for scientists from around the world with the Biohub’s Rapid Response team which works to train the Gates Foundation’s Grand Challenges [grantees](https://gcgh.grandchallenges.org/challenge/metagenomic-next-generation-sequencing-detect-identify-and-characterize-pathogens).
 - methods development work which focuses on quantifying sequence-phenotype relationships by developing a mathematical method and software tool to analyze DNA, RNA, and protein sequences and mapping phenotype information onto sequence space (ortho_seqs).
 
- (currently working on antibody sequence analysis using the novel mathematical method that my advisor and I developed during my Ph.D.).
 - I'm passionate about bridging the gap between mathematics and biology.
-- I recently finished my PhD in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
+- My background (and Ph.D.) is in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
 
 ![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/images/headshot_filmphoto_cropped.png?raw=true)
 
 ### Research
-[Recent paper in NAR Genomics & Bioinformatics](https://academic.oup.com/nargab/article/2/4/lqaa101/6030984)
+[2020 paper in NAR Genomics & Bioinformatics](https://academic.oup.com/nargab/article/2/4/lqaa101/6030984)
 
 For my Ph.D. work, I worked on implementing a novel mathematical tool derived by my advisor, Dr. Sean Rice, that aims to map phenotypes onto underlying sequence space using tensor-based multivariate orthogonal polynomials. I am currently applying this method to other applications in molecular biology but one example that shows this implementation as applied to RNA is given in the paper linked above.
 
 ### Software
 
-I'm also currently developing a command line tool written in Python that makes it easier for researchers to utilize the aforementioned approach in their own work. Link to the PyPI package is [here](https://pypi.org/project/ortho-seq-code/).
+I'm also currently developing a command line tool written in Python that makes it easier for researchers to utilize the aforementioned approach in their own work.
+Update: we now have a GUI that goes along with the CLI!
+Read the documentation [here](https://ortho-seqs.readthedocs.io/en/master/index.html).
 The github repo can be found [here](https://github.com/snafees/ortho_seqs). If you have ideas or comments or would like to contribute, please let me know!
 
 ### Relevant Press Related to Advocacy & Other Things!
