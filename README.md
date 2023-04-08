@@ -1,18 +1,23 @@
 ## Hello!
 
 My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong learner.  
-- I'm a bioinformatics scientist at [Chan Zuckerberg Biohub](https://www.czbiohub.org/) working at the interface of mathematics and biology.
+- With a background in mathematical biology, I’m passionate about discovering and applying novel mathematical tools to uncover insights in large biological datasets. Until recently, I worked as a data scientist, doing bioinformatics and infectious disease work at [Chan Zuckerberg Biohub](https://www.czbiohub.org/).
 
-My current projects center around infectious disease initiatives such as the following:
+Some of my past and current projects are:
 
 - analyzing patient samples from a hospital setting for viral or bacterial outbreaks
-- analyzing immune repertoires and working with the protein sciences team to model antibodies
-- developing and conducting bioinformatics & metagenomics training for scientists from around the world with the Biohub’s Rapid Response team which works to train the Gates Foundation’s Grand Challenges [grantees](https://gcgh.grandchallenges.org/challenge/metagenomic-next-generation-sequencing-detect-identify-and-characterize-pathogens).
-- methods development work which focuses on quantifying sequence-phenotype relationships by developing a mathematical method and software tool to analyze DNA, RNA, and protein sequences and mapping phenotype information onto sequence space (ortho_seqs).
+- methods development work which focuses on quantifying sequence-phenotype relationships by developing a mathematical method and software tool to analyze DNA, RNA, and protein sequences and mapping phenotype information onto sequence space (***ortho_seqs***).
+- using ***ortho_seqs*** to analyze and predict synthetic antibodies
+- analyzing immune repertoires 
+- developing and conducting bioinformatics & metagenomics training for scientists from around the world (working with the Gates Foundation’s Grand Challenges [grantees](https://gcgh.grandchallenges.org/challenge/metagenomic-next-generation-sequencing-detect-identify-and-characterize-pathogens)).
 
+
+My background:
 - I'm passionate about bridging the gap between mathematics and biology.
-- My background (and Ph.D.) is in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
-- Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigration reform movement.
+- My educational background (and Ph.D.) is in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
+- Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigrant rights movement.
+
+Outside of science, it is my passion to help young people, especially immigrant students, pursue their higher education and career dreams. As someone who grew up being undocumented in Texas, the pursuit of higher education and science was a privilege but my path was full of obstacles. It is my life’s mission to help young students pursue their educational dreams, regardless of their socioeconomic or immigration backgrounds.
 
 ![Photo by Daniel Clayton](https://github.com/snafees/snafees.github.io/blob/master/images/headshot_filmphoto_cropped.png?raw=true)
 
@@ -20,6 +25,9 @@ My current projects center around infectious disease initiatives such as the fol
 [2020 paper in NAR Genomics & Bioinformatics](https://academic.oup.com/nargab/article/2/4/lqaa101/6030984)
 
 For my Ph.D. work, I worked on implementing a novel mathematical tool derived by my advisor, Dr. Sean Rice, that aims to map phenotypes onto underlying sequence space using tensor-based multivariate orthogonal polynomials. I am currently applying this method to other applications in molecular biology but one example that shows this implementation as applied to RNA is given in the paper linked above.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=88YaD-kAAAAJ)
+
 
 ### Software
 
@@ -30,7 +38,12 @@ The github repo can be found [here](https://github.com/snafees/ortho_seqs). If y
 
 ### Relevant Press Related to Advocacy & Other Things!
 
-Recent [interview with STEMcx](https://youtu.be/RLld5wJzKEE) from Baltimore, MD. [STEMcx](https://stemcx.wixsite.com/kids) is a wonderful nonprofit organization that promotes STEM education and resources for students from underrepresented communities. I had a great time being interviewed by Anaiah, a wonderful young lady who's in the 8th grade and has exciting plans for her career.
+I was recently awarded the Texas Tech University College of Arts & Sciences Distinguished Alumni Rising Innovator [Award](https://www.depts.ttu.edu/artsandsciences/alumni_friends/news_features/2023_Distinguished_Alumni_News_Story.php). I'm grateful and honored. I'm excited to continue to mentor TTU students as they pursue their higher education goals. 
+
+![TTU College of Arts & Sciences Distinguished Alumni Rising Innovator Award](https://github.com/snafees/snafees.github.io/blob/master/images/distinguished_alumni_award_image_03-2023.jpg?raw=true)
+
+#### STEM & Mentorship
+An [interview with STEMcx](https://youtu.be/RLld5wJzKEE) from Baltimore, MD. [STEMcx](https://stemcx.wixsite.com/kids) is a wonderful nonprofit organization that promotes STEM education and resources for students from underrepresented communities. I had a great time being interviewed by Anaiah, a wonderful young lady who's in the 8th grade and has exciting plans for her career.
 
 #### Documentary
 You can find out more about my family's immigration story in this award-winning documentary produced by PBS, [Dream With Me](http://dreamwithmemovie.com/) Remember, this is just one of millions of American stories that showcase the undocumented American's struggle. Feel free to reach out if you have questions or would like to screen it at your organization!
