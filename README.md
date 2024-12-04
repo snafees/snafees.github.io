@@ -1,19 +1,19 @@
 ## Hello!
 
-My name is Saba Nafees and I'm a young scientist, entrepreneur, and lifelong learner.  
-- With a background in mathematical biology, I’m passionate about discovering and applying novel mathematical tools to uncover insights in large biological datasets. Until recently, I worked as a data scientist, doing bioinformatics and infectious disease work at [Chan Zuckerberg Biohub](https://www.czbiohub.org/).
+My name is Saba Nafees and I'm a computaitonal biologist, entrepreneur, and lifelong learner.  
+- With a background in mathematical biology and bioinformatics, I’m passionate about discovering and applying novel mathematical tools to uncover insights in genomics data. Until recently, I was part of a biotech startup developing a cell-free mRNA diagnostic for Alzheimer’s and bofore that as a data scientist, doing computational biology and infectious disease work at [Chan Zuckerberg Biohub](https://www.czbiohub.org/). I continue to consult on bioinformatics work, including Nextflow/pipeline development, cloud computing and optimization, gene expression anaylysis, and mathematical and computational (numerical, machine learning, statistical) approaches to understanding sequence variation connected to disease phenotypes. 
 
 Some of my past and current projects are:
 
 - analyzing patient samples from a hospital setting for viral or bacterial outbreaks
 - methods development work which focuses on quantifying sequence-phenotype relationships by developing a mathematical method and software tool to analyze DNA, RNA, and protein sequences and mapping phenotype information onto sequence space (***ortho_seqs***).
-- using ***ortho_seqs*** to analyze and predict synthetic antibodies
+- using ***ortho_seqs*** in conjunction with machine learning to analyze and predict synthetic antibodies
 - analyzing immune repertoires 
 - developing and conducting bioinformatics & metagenomics training for scientists from around the world (working with the Gates Foundation’s Grand Challenges [grantees](https://gcgh.grandchallenges.org/challenge/metagenomic-next-generation-sequencing-detect-identify-and-characterize-pathogens)).
 
 
 My background:
-- I'm passionate about bridging the gap between mathematics and biology.
+- I'm passionate about bridging the gap between analytical mathematical+computionatal biology and molecular biology.
 - My educational background (and Ph.D.) is in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](http://dreamwithmemovie.com/) and I'm proud to be part of the immigrant rights movement.
 
