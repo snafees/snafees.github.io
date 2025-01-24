@@ -1,7 +1,7 @@
 ## Hello!
 
 My name is Saba Nafees and I'm a computational biologist, entrepreneur, and lifelong learner.  
-- With a background in mathematical biology and bioinformatics, I’m passionate about discovering and applying novel mathematical tools to uncover insights in genomics data. Until recently, I was part of a biotech startup developing a cell-free mRNA diagnostic for Alzheimer’s and bofore that as a data scientist, doing computational biology and infectious disease work at [Chan Zuckerberg Biohub](https://www.czbiohub.org/). I continue to consult on bioinformatics work, including Nextflow/pipeline development, cloud computing and optimization, gene expression anaylysis, and mathematical and computational (numerical, machine learning, statistical) approaches to understanding sequence variation connected to disease phenotypes. 
+- With a background in mathematical biology and bioinformatics, I’m passionate about discovering and applying novel mathematical tools to uncover insights in genomics data. Until recently, I was part of a biotech startup developing a cell-free mRNA diagnostic for Alzheimer’s and before that as a data scientist, doing computational biology and infectious disease work at [Chan Zuckerberg Biohub](https://www.czbiohub.org/). I continue to consult on bioinformatics work, including Nextflow/pipeline development, cloud computing and optimization, gene expression analysis, and mathematical and computational (numerical, machine learning, statistical) approaches to understanding sequence variation connected to disease phenotypes. 
 
 Some of my past and current projects are:
 
