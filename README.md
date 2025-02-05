@@ -13,7 +13,7 @@ Some of my past and current projects are:
 
 
 My background:
-- I'm passionate about bridging the gap between analytical mathematical+computionatal biology and molecular biology.
+- I'm passionate about bridging the gap between analytical mathematical+computational biology and molecular biology.
 - My educational background (and Ph.D.) is in mathematical biology at [Texas Tech University](http://www.ttu.edu/), in good 'ol Lubbock, TX.
 - Until recently, I have been [#UndocumentedandUnafraid](https://www.pbs.org/show/dream-me/) and I'm proud to be part of the immigrant rights movement.
 
